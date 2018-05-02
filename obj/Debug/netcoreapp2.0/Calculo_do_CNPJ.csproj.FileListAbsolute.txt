@@ -1,0 +1,10 @@
+C:\Users\user_acronus\Calculo_do_CNPJ\bin\Debug\netcoreapp2.0\Calculo_do_CNPJ.deps.json
+C:\Users\user_acronus\Calculo_do_CNPJ\bin\Debug\netcoreapp2.0\Calculo_do_CNPJ.runtimeconfig.json
+C:\Users\user_acronus\Calculo_do_CNPJ\bin\Debug\netcoreapp2.0\Calculo_do_CNPJ.runtimeconfig.dev.json
+C:\Users\user_acronus\Calculo_do_CNPJ\bin\Debug\netcoreapp2.0\Calculo_do_CNPJ.dll
+C:\Users\user_acronus\Calculo_do_CNPJ\bin\Debug\netcoreapp2.0\Calculo_do_CNPJ.pdb
+C:\Users\user_acronus\Calculo_do_CNPJ\obj\Debug\netcoreapp2.0\Calculo_do_CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\user_acronus\Calculo_do_CNPJ\obj\Debug\netcoreapp2.0\Calculo_do_CNPJ.AssemblyInfoInputs.cache
+C:\Users\user_acronus\Calculo_do_CNPJ\obj\Debug\netcoreapp2.0\Calculo_do_CNPJ.AssemblyInfo.cs
+C:\Users\user_acronus\Calculo_do_CNPJ\obj\Debug\netcoreapp2.0\Calculo_do_CNPJ.dll
+C:\Users\user_acronus\Calculo_do_CNPJ\obj\Debug\netcoreapp2.0\Calculo_do_CNPJ.pdb
